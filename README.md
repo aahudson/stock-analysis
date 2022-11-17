@@ -6,8 +6,11 @@
 
 ## Results (analysis with screenshots and code)
 Orginial Code Time 
+
 <img width="748" alt="CodeTime" src="https://user-images.githubusercontent.com/115559111/202329011-588fb539-7e8c-4177-9857-fe672d685330.PNG">
+
 Refactored Code Time
+
 ![RefactoredCodeTime](https://user-images.githubusercontent.com/115559111/202329066-dbf891e0-2944-4f2c-968d-9a0630f43bb8.png)
 
 ## Summary (advantages and disadvatanges of refactoring code in general and about the code here)
